@@ -83,3 +83,8 @@ body {
     width: 700px;
     border: 1px solid #e5e5e5;
 }
+
+.display{
+    font-size: 18px;
+    font-weight: 500;
+}
